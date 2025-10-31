@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Eos V-Neck Hoodie",
+        "tamanho": "S",
+        "cor": "Green",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Circe Hooded Ice Fleece",
+        "tamanho": "M",
+        "cor": "Gray",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "XS",
+        "cor": "Black",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Stellar Solar Jacket",
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 1
+    }
+]

@@ -1,4 +1,11 @@
 {
-  "usuario": "aluno_ebac@teste.com",
-  "senha": "teste@teste.com"
+  "usuario": "usertestehades@teste.com",
+  "senha": "teste@123",
+  "nome": "Hades",
+  "sobrenome": "Tws",
+  "endereco": "The Drag",
+  "cidade": "Orgrimmar",
+  "estado": "Durotar",
+  "cep": "18606-293",
+  "telefone": "1124261511"
 }
